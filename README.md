@@ -1,6 +1,6 @@
 #jQuery-Quick-Filter
 
-A simple jQuery plugin for quick content filtering
+A simple jQuery plugin for quick content filtering. See a [live demo](http://labs.syropia.net/jQuery-Quick-Filter/demo.html).
 
 ##Instructions
 
