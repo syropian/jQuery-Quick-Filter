@@ -1,0 +1,27 @@
+<html>
+<head>
+    <title>QuickFilter Sample</title>
+    <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js'></script>
+    <script type="text/javascript" src="jquery.quickfilter.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('#txtSearch').quickfilter('#list li');
+        });
+    </script>
+</head>
+<body>
+<input type="text" id="txtSearch" placeholder="Search" />
+<ul id="list">
+    <li>One</li>
+    <li>Two</li>
+    <li>Three</li>
+    <li>Four</li>
+    <li>Five</li>
+    <li>Six</li>
+    <li>Seven</li>
+    <li>Eight</li>
+    <li>Nine</li>
+    <li>Ten</li>
+</ul>
+</body>
+</html>
