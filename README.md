@@ -1,4 +1,9 @@
-jQuery-Quick-Filter
-===================
+#jQuery-Quick-Filter
 
 A simple jQuery plugin for quick content filtering
+
+##Instructions
+
+1. Include the latest version of jQuery
+2. Include the plugin script
+3. Instantiate the plugin on a text field, and pass the elements you want to filter as the parameter. See the `demo.html` file for a simple example.
