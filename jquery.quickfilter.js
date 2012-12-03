@@ -1,8 +1,9 @@
 /*
  * Plugin Name: QuickFilter
- * Author: Collin Henderson
+ * Author: Collin Henderson (collin@syropia.net)
  * Version: 1.0
  * © 2012, http://syropia.net
+ * You are welcome to freely use and modify this script in your personal and commercial products. Please don't sell it or release it as your own work. Thanks!
 */
 (function($){
 $.extend($.expr[':'], {missing: function (elem, index, match) {
